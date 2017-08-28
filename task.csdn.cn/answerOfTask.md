@@ -18,4 +18,4 @@
 
 ## 关注程序人生公众号,获得2个下载积分
 *http://task.csdn.net/m/task/home?task_id=398*
-#### 答案: 据说关注公众号的人都 <span style="border-bottom:2px dashed blue;">机智</span>
+#### 答案: 据说关注公众号的人都 [机智](#)
